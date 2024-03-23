@@ -1,2 +1,5 @@
 ﻿  FPSConsole.cpp
+H:\github\consoleFPS\FPSConsole\FPSConsole.cpp(17,12): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+H:\github\consoleFPS\FPSConsole\FPSConsole.cpp(29,9): warning C4068: pragma "mark" desconocida
+H:\github\consoleFPS\FPSConsole\FPSConsole.cpp(117,17): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
   FPSConsole.vcxproj -> H:\github\consoleFPS\FPSConsole\x64\Debug\FPSConsole.exe
